@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="114bdb64-2ea4-43e1-867c-fbd13c0926ca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\GitHub-Maven\repository" />
+        <option name="mavenHome" value="D:/GitHub-Maven/apache-maven-3.2.5" />
+        <option name="userSettingsFile" value="D:\GitHub-Maven\apache-maven-3.2.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="22iAzxHEzSDX1pCZTldxAEm8LY6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.27687776" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install -Dfile=&quot;D:\GitHub-Maven\repository\com\android\support\support-v4\28.0.0\android-support-v4.jar&quot; -DgroupId=com.android.support -DartifactId=support-v4 -Dversion=24.0.0 -Dpackaging=jar" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GetPicProperties">
+    <configuration name="AlgorithmUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlgorithmUtils" />
+      <module name="MyUtils" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetPicProperties" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GetPicProperties" />
+      <module name="MyUtils" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnvironmentSDCardCheck (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyUtils" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EnvironmentSDCardCheck" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnvironmentSDCardCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyUtils" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EnvironmentSDCardCheck" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileCopy.filePathCopyFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyUtils" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FileCopy" />
+      <option name="METHOD_NAME" value="filePathCopyFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GetPicProperties" />
+        <item itemvalue="Application.AlgorithmUtils" />
+        <item itemvalue="JUnit.FileCopy.filePathCopyFile" />
+        <item itemvalue="JUnit.EnvironmentSDCardCheck (1)" />
+        <item itemvalue="JUnit.EnvironmentSDCardCheck" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="114bdb64-2ea4-43e1-867c-fbd13c0926ca" name="Default Changelist" comment="" />
+      <created>1640310299453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640310299453</updated>
+      <workItem from="1640310303482" duration="14658000" />
+      <workItem from="1640397644988" duration="1422000" />
+      <workItem from="1640399431310" duration="7900000" />
+      <workItem from="1640567066561" duration="1595000" />
+      <workItem from="1640671860440" duration="1069000" />
+      <workItem from="1640763483754" duration="2164000" />
+      <workItem from="1640825481487" duration="3878000" />
+      <workItem from="1640918781639" duration="2420000" />
+      <workItem from="1641346785724" duration="2368000" />
+      <workItem from="1641438984488" duration="2161000" />
+      <workItem from="1641880562734" duration="1337000" />
+      <workItem from="1642042647686" duration="1254000" />
+      <workItem from="1642066606464" duration="1319000" />
+      <workItem from="1642386977176" duration="2565000" />
+      <workItem from="1642572813246" duration="592000" />
+      <workItem from="1642663562823" duration="1225000" />
+      <workItem from="1644201164438" duration="1212000" />
+      <workItem from="1644215868368" duration="110000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1640310328357">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1640310328357" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1640409181051">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1640409181051" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1640764568793">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1640764568793" />
+    <state width="448" height="466" key="DebuggerActiveHint" timestamp="1640314288759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="448" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1640314288759" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1642670040177">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1642670040177" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1641881124354">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1641881124354" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1641881124354">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1641881124354" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1641881124354">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1641881124354" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1641881124354">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1641881124354" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1640834252001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1640834252001" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1640834252001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1640834252001" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1640834252001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1640834252001" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1640834252001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1640834252001" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1640405506333">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1640405506333" />
+    <state x="408" y="110" key="NewModule_or_Project.wizard" timestamp="1642068333620">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="408" y="110" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1642068333620" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1640406602241">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1640406602241" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1642663571334">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1642663571334" />
+    <state x="506" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1640406601244">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="506" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1640406601244" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1640765658165">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1640765658165" />
+    <state x="431" y="145" key="search.everywhere.popup" timestamp="1640399852292">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1640399852292" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/GetPicProperties.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
