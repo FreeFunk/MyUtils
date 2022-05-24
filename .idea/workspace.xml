@@ -2,12 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="114bdb64-2ea4-43e1-867c-fbd13c0926ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/edgedo/decrypt/DecryptUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/edgedo/statistics/StatisticsUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/edgedo/date/DateUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FileCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/edgedo/file/FileCopy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GetPicProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/edgedo/imageGps/GetPicProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/zoneId分区清单" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/edgedo/date/zoneId分区清单" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/AlgorithmUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/AlgorithmUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FileCopy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/GetPicProperties.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -31,7 +47,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://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@github.com/FreeFunk/MyUtils.git" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -41,6 +69,9 @@
         <option name="userSettingsFile" value="D:\GitHub-Maven\apache-maven-3.2.5\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="22iAzxHEzSDX1pCZTldxAEm8LY6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -54,6 +85,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -63,17 +95,22 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.27687776" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\PuShiAiWorkObject\javademo\MyUtils\src\test\java\com\edgedo\date" />
+    </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn install -Dfile=&quot;D:\GitHub-Maven\repository\com\android\support\support-v4\28.0.0\android-support-v4.jar&quot; -DgroupId=com.android.support -DartifactId=support-v4 -Dversion=24.0.0 -Dpackaging=jar" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.GetPicProperties">
+  <component name="RunManager" selected="Application.StatisticsUtils">
     <configuration name="AlgorithmUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AlgorithmUtils" />
       <module name="MyUtils" />
@@ -81,50 +118,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DateUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.edgedo.date.DateUtils" />
+      <module name="MyUtils" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GetPicProperties" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GetPicProperties" />
+      <option name="MAIN_CLASS_NAME" value="com.edgedo.imageGps.GetPicProperties" />
       <module name="MyUtils" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnvironmentSDCardCheck (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StatisticsUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.edgedo.statistics.StatisticsUtils" />
       <module name="MyUtils" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EnvironmentSDCardCheck" />
-      <option name="TEST_OBJECT" value="class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edgedo.statistics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnvironmentSDCardCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringTest" />
       <module name="MyUtils" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EnvironmentSDCardCheck" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileCopy.filePathCopyFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MyUtils" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FileCopy" />
-      <option name="METHOD_NAME" value="filePathCopyFile" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StatisticsUtils" />
+        <item itemvalue="Application.StringTest" />
+        <item itemvalue="Application.DateUtils" />
         <item itemvalue="Application.GetPicProperties" />
         <item itemvalue="Application.AlgorithmUtils" />
-        <item itemvalue="JUnit.FileCopy.filePathCopyFile" />
-        <item itemvalue="JUnit.EnvironmentSDCardCheck (1)" />
-        <item itemvalue="JUnit.EnvironmentSDCardCheck" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -154,7 +202,39 @@
       <workItem from="1642663562823" duration="1225000" />
       <workItem from="1644201164438" duration="1212000" />
       <workItem from="1644215868368" duration="110000" />
+      <workItem from="1644220064247" duration="2603000" />
+      <workItem from="1644303246610" duration="5948000" />
+      <workItem from="1644311668853" duration="19000" />
+      <workItem from="1644311811852" duration="1970000" />
+      <workItem from="1644370842821" duration="9164000" />
+      <workItem from="1644465303590" duration="2397000" />
+      <workItem from="1644542674347" duration="566000" />
+      <workItem from="1645067288348" duration="456000" />
+      <workItem from="1648028989016" duration="659000" />
+      <workItem from="1648085652805" duration="873000" />
+      <workItem from="1650434085908" duration="1719000" />
+      <workItem from="1650527800264" duration="1863000" />
+      <workItem from="1650764711284" duration="1392000" />
+      <workItem from="1650851215254" duration="578000" />
+      <workItem from="1650956141174" duration="1211000" />
+      <workItem from="1653286255492" duration="549000" />
+      <workItem from="1653361955487" duration="2630000" />
     </task>
+    <task id="LOCAL-00001" summary="追加jdk8时间操作类">
+      <created>1644310678662</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644310678662</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交线程池创建停止工具类">
+      <created>1644474530819</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644474530820</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,101 +245,61 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="追加jdk8时间操作类" />
+    <MESSAGE value="提交线程池创建停止工具类" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交线程池创建停止工具类" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="71" key="#Project_Structure" timestamp="1640310328357">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1650767612684">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1640310328357" />
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1640409181051">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1650767612684" />
+    <state width="1493" height="267" key="GridCell.Tab.0.bottom" timestamp="1653373414202">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1640409181051" />
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1640764568793">
+    <state width="1493" height="267" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1653373414202" />
+    <state width="1493" height="267" key="GridCell.Tab.0.center" timestamp="1653373414202">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1640764568793" />
-    <state width="448" height="466" key="DebuggerActiveHint" timestamp="1640314288759">
+    <state width="1493" height="267" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1653373414202" />
+    <state width="1493" height="267" key="GridCell.Tab.0.left" timestamp="1653373414202">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="448" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1640314288759" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1642670040177">
+    <state width="1493" height="267" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1653373414202" />
+    <state width="1493" height="267" key="GridCell.Tab.0.right" timestamp="1653373414202">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1642670040177" />
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1641881124354">
+    <state width="1493" height="267" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1653373414202" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1650434445473">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1641881124354" />
-    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1641881124354">
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1650434445473" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1648085907914">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1641881124354" />
-    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1641881124354">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1641881124354" />
-    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1641881124354">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1641881124354" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1640834252001">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1640834252001" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1640834252001">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1640834252001" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1640834252001">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1640834252001" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1640834252001">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1640834252001" />
-    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1640405506333">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1640405506333" />
-    <state x="408" y="110" key="NewModule_or_Project.wizard" timestamp="1642068333620">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="408" y="110" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1642068333620" />
-    <state x="270" y="0" key="SettingsEditor" timestamp="1640406602241">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1640406602241" />
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1642663571334">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1642663571334" />
-    <state x="506" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1640406601244">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="506" y="306" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1640406601244" />
-    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1640765658165">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1640765658165" />
-    <state x="431" y="145" key="search.everywhere.popup" timestamp="1640399852292">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1640399852292" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1648085907914" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/GetPicProperties.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/com/edgedo/imageGps/GetPicProperties.java</url>
           <line>43</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/edgedo/date/DateUtils.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

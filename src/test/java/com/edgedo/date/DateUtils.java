@@ -1,3 +1,5 @@
+package com.edgedo.date;
+
 import java.time.*;
 import java.time.format.DateTimeFormatter;
 import java.time.temporal.ChronoUnit;
@@ -11,7 +13,8 @@ public class DateUtils {
 
 
     public static void main(String[] args) throws InterruptedException {
-        localDateInLocalDateTime();
+//        localDateInLocalDateTime();
+        System.out.println(System.nanoTime());
     }
 
     public static void localTime() throws InterruptedException {

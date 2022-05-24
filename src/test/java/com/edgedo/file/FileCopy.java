@@ -1,3 +1,5 @@
+package com.edgedo.file;
+
 import android.os.Environment;
 import org.junit.Test;
 import org.apache.commons.io.IOUtils;
